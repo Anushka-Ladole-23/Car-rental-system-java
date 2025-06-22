@@ -41,4 +41,5 @@ This project is for learning and practice purposes.
 
 Originally based on a YouTube tutorial, but extended with custom logic and features to simulate a realistic workflow.
 
-
+## 📄 License
+This project is licensed under the [MIT License](./LICENSE).
