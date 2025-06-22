@@ -1,6 +1,3 @@
-# Car-rental-system-java
-A console-based car rental system built in java with user login, car catalog, and mock payment flow.
-
 # 🚗 Car Rental System (Java – Console-Based)
 
 A terminal-based Java project that simulates a simple car rental system. Built as a learning project and enhanced beyond the original tutorial with user login, car management, and mock payment functionality.
@@ -22,21 +19,26 @@ A terminal-based Java project that simulates a simple car rental system. Built a
 
 - Java (JDK 21.0)
 - OOP concepts
-- Console I/O
+- IntelliJ IDEA (Community Edition)
 
 ---
 
 ## 🚀 How to Run
 
 1. Clone the repository:
-  - git clone https://github.com/YOUR_USERNAME/car-rental-system-java.git
+  - git clone https://github.com/Anushka-Ladole-23/Car-rental-system-java.git
+    
+2. Open the project in IntelliJ IDEA Community Edition
 
-2. Navigate to the folder:
-  - cd car-rental-system-java
+3. Navigate to Main.java (or the main entry point)
 
-3. Compile and run:
-  - javac Main.java
-  - java Main
+4. Run the file (Right-click → Run)
 
-# 💻 IDE to use
-  - IntelliJ IDEA Community Edition 
+
+## 📌 Notes
+
+This project is for learning and practice purposes.
+
+Originally based on a YouTube tutorial, but extended with custom logic and features to simulate a realistic workflow.
+
+
